@@ -3,16 +3,16 @@
 
 
 
-### 🌱 About Me
+###  About Me
 
-- 🎓 I'm a 5th-semester engineering student (Mumbai University)
-- 💡 I’m currently learning the **MERN Stack**, **DSA on LeetCode** and exploring the world of **AI**
-- 🤝 I actively contribute to **collaborative projects** and enjoy building impactful products
-- 💪 I stay consistent with my goals 
+-  I'm a 5th-semester engineering student (Mumbai University)
+-  I’m currently learning the **MERN Stack**, **DSA on LeetCode** and exploring the world of **AI**
+-  I actively contribute to **collaborative projects** and enjoy building impactful products
+-  I stay consistent with my goals 
 
 
 
-### 💼 Projects
+###  Projects
 
 - 📱 [Feasto](https://github.com/SHUBHAM2775/Feasto-Python) — QR-based food ordering & billing system using **Django, MongoDB, Tkinter**
 <!--- 🧠 [Mindmate](https://github.com/your-mindmate-repo) — Mental health chatbot for follow-up support, trained on expert data -->
