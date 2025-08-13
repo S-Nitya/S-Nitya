@@ -48,4 +48,4 @@
 <!-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/S-Nitya)  -->
 
 
-*“Be consistent, stay curious, and build cool things.”*
+*“Be consistent, stay curious and build cool things.”*
